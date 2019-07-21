@@ -9,4 +9,4 @@ The discourse forum is hosted on a digital ocean server.
 
 Please contact them if you have any questions. 
 
-The landing page will soon be active. It is currently residing at privacyseries.github.io
+The landing page will soon be active. It is currently residing at https://privacyseries.github.io

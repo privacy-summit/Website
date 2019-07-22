@@ -1,7 +1,9 @@
-///This has been made with the help of the below///
-///You can also look at the original template in that folder, if required///
+<h1>This has been made with the help of the below</h1>
+<br>
+<h1>You can also look at the original template in that folder, if required</h1>
+<br>
 
-Spectral by HTML5 UP
+**Spectral by HTML5 UP**  
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 

@@ -1,6 +1,7 @@
-<h1>This has been made with the help of the below</h1>
+<h1>Privacy Series Website Landing Page</h1>
+
+<h3>This has been made with the help of the below</h3>
 <br>
-<h1>You can also look at the original template in that folder, if required</h1>
 <br>
 
 **Spectral by HTML5 UP**  
